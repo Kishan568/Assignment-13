@@ -1,0 +1,8 @@
+E:\C# project\Assignment 13\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.exe.config
+E:\C# project\Assignment 13\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.exe
+E:\C# project\Assignment 13\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.pdb
+E:\C# project\Assignment 13\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.csproj.AssemblyReference.cache
+E:\C# project\Assignment 13\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.csproj.SuggestedBindingRedirects.cache
+E:\C# project\Assignment 13\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.csproj.CoreCompileInputs.cache
+E:\C# project\Assignment 13\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.exe
+E:\C# project\Assignment 13\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.pdb
